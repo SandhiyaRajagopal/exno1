@@ -28,11 +28,15 @@ import pandas as pd
 df=pd.read_csv("/content/SAMPLEIDS.csv")
 df
 ```
+
 ![image](https://github.com/user-attachments/assets/289a572b-c955-4ba2-bbc8-1b06e4c24734)
+
 ```
 df.shape
 ```
+
 ![image](https://github.com/user-attachments/assets/53cbb768-cdf2-403f-81e7-1305eac79d08)
+
 ```
 df.describe()
 ```
