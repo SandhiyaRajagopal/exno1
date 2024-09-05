@@ -21,20 +21,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            1."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 211837.png"
-            2."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 212044.png"
-            3."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 212153.png"
-            4."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 212212.png"
-            5."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 212219.png"
-            6."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 212225.png"
-            7."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 212231.png"
-            8."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 212239.png"
-            9."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 212246.png"
-            9."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 212255.png"
-            10."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 212305.png"
-            11."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 212327.png"
-            12."C:\Users\admin\Pictures\Screenshots\Screenshot 2024-09-05 212337.png"
-            13.![Screenshot 2024-09-05 212914](https://github.com/user-attachments/assets/1a0cd2a1-c16e-4a64-b6aa-c23d76c3ad08)
+           ![Screenshot 2024-09-05 213416](https://github.com/user-attachments/assets/112af42a-64bc-477d-9458-3f93d67125b6)
 
 
 # Result
